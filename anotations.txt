@@ -1,0 +1,33 @@
+Anotações necessarias
+
+
+Booleans:comparações
+
+maior que: >
+menor quer: <
+maior ou igual: >=
+menor ou igual: <=
+igual: ==  ex: 3 é igual a "3"
+diferente: !=
+idêntico: ===   ex: 3 é identico a 3 // veja o exemplo de igual
+
+------------------------------------------------------------------------------------------
+Booleans: Operadores logicos
+Serve como vi na faculdade, na aula de logica proporsicional
+
+------------------------------------------------------------------------------------------
+&& and = Somente se se duas informaçõe forem verdadeira, significa que é verdadeira
+|| or = Se uma das duas informações forem verdadeiram significa que é verdadeira
+!  ~ = Senal de negação
+
+----------------------------------------------------------------------------------------
+funções - Um software pode ter uma ou mais funções e podem ser reaproveitadas.
+
+-----------------------------------------------------------
+Expressões regulares
+
+Validar numeres
+
+encontrar padrão em string
+
+etc
